@@ -53,10 +53,10 @@ If you use this code for your research, please cite our paper.
 
 
 ```
-@inproceedings{hwang2024imagenet,
-      title={ImageNet-RIB Benchmark: Large Pre-Training Datasets Don't Guarantee Robustness after Fine-Tuning},
+@inproceedings{hwang2026large,
+      title={Large Pre-Training Datasets Don't Guarantee Robustness after Fine-Tuning in Image Classification},
       author={Hwang, Jaedong and Cheung, Brian and Hong, Zhang-Wei and Boopathy, Akhilan and Agrawal, Pulkit and Fiete, Ila R},
-      booktitle={NeurIPSW on Fine-Tuning in Modern Machine Learning: Principles and Scalability},
-      year={2024}
+      booktitle={TMLR},
+      year={2026}
     }
 ```
